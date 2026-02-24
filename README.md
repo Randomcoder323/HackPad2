@@ -2,6 +2,7 @@
 
 This is my first hackpad project. I used the guide on blueprint and added my own twist to it. I like puzzles so I choose that for the base of mine!
 
+ 
 <img width="743" height="652" alt="Screenshot 2025-11-15 120517" src="https://github.com/user-attachments/assets/eba4e8ab-5503-4d68-946b-2cae2ba4a562" />
 
 <img width="932" height="734" alt="Screenshot 2025-11-15 120614" src="https://github.com/user-attachments/assets/6125edc4-3901-4746-8b7c-8a0d21131f79" />
