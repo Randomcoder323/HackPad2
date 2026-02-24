@@ -1,5 +1,12 @@
 # HackPad2
 
+## final build
+<img width="1430" height="1430" alt="image" src="https://github.com/user-attachments/assets/53633e2f-8bee-4553-8c78-fbfc657b48b4" />
+<img width="1430" height="1430" alt="image" src="https://github.com/user-attachments/assets/9ce3f3ae-04fe-47e7-b872-b125f34d162b" />
+<img width="1430" height="1430" alt="image" src="https://github.com/user-attachments/assets/796f73fb-8072-41d6-9bdd-3ede85533e5a" />
+<img width="1430" height="1430" alt="image" src="https://github.com/user-attachments/assets/169d7ffb-4e5a-4a23-b176-01fa4ec70b5d" />
+
+## Renders 
 This is my first hackpad project. I used the guide on blueprint and added my own twist to it. I like puzzles so I choose that for the base of mine!
 
  
